@@ -1,3 +1,6 @@
 [submodule "vim-mustache-handlebars"]
 	path = vim-mustache-handlebars
 	url = git@github.com:mustache/vim-mustache-handlebars.git
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = git@github.com:kien/ctrlp.vim.git
