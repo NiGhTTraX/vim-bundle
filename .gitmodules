@@ -16,3 +16,6 @@
 [submodule "vim-javascript"]
 	path = vim-javascript
 	url = git@github.com:pangloss/vim-javascript.git
+[submodule "vim-less"]
+	path = vim-less
+	url = git@github.com:groenewege/vim-less.git
