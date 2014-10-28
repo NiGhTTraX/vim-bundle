@@ -22,3 +22,6 @@
 [submodule "vim-jsx"]
 	path = vim-jsx
 	url = git@github.com:mxw/vim-jsx.git
+[submodule "vim-gitgutter"]
+	path = vim-gitgutter
+	url = git@github.com:airblade/vim-gitgutter.git
