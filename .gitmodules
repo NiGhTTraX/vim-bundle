@@ -31,3 +31,6 @@
 [submodule "nerdtree"]
 	path = nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
+[submodule "Dockerfile.vim"]
+	path = Dockerfile.vim
+	url = git@github.com:ekalinin/Dockerfile.vim.git
